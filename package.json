@@ -1,0 +1,22 @@
+{
+  "name": "01-socialapp",
+  "version": "1.0.0",
+  "description": "small backend app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "Aryan Nipane",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.13",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
